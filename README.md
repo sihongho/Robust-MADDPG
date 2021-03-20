@@ -1,7 +1,7 @@
 # Robust Multi-Agent Reinforcement Learning Under Training Partners' Policy Uncertainty
 
 This is the code for implementing the Robust MADDPG (rmaddpg) algorithm. 
-The code is modified from https://github.com/openai/maddpg and https://github.com/dadadidodi/m3ddpg
+The code is modified from https://github.com/openai/maddpg and https://github.com/dadadidodi/m3ddpg .
 
 For Multi-Agent Particle Environments (MPE) installation, please refer to https://github.com/openai/multiagent-particle-envs
 
